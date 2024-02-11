@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 800px;
+    border: 10px solid black;
+}
+
+td {
+    border: 5px solid black;
+    padding: 0;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.military-green {
+    background-color: olive;
+}
+
+.gray {
+    background-color: gray;
+}
